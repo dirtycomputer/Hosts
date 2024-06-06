@@ -8,35 +8,38 @@
 104.71.182.190                 api.steampowered.com
 104.96.220.106                 cdn.steampowered.com
 104.96.220.130                 cdn.steampowered.com
-104.71.182.190                 help.steampowered.com
+184.31.138.32                  help.steampowered.com
 198.185.159.145                steampoweredmedia.com
 198.49.23.145                  steampoweredmedia.com
 198.185.159.144                steampoweredmedia.com
 198.49.23.144                  steampoweredmedia.com
-23.53.11.241                   cdn.steamcommunity.com
-23.53.11.228                   cdn.steamcommunity.com
-23.53.11.236                   media.steampowered.com
+23.45.181.163                  cdn.steamcommunity.com
+23.45.181.202                  cdn.steamcommunity.com
+23.218.218.133                 media.steampowered.com
+23.218.218.153                 media.steampowered.com
 23.48.9.171                    store.steampowered.com
-23.53.11.236                   cdn.akamai.steamstatic.com
-23.215.0.231                   cdn.store.steampowered.com
-23.215.0.238                   cdn.store.steampowered.com
-120.192.85.36                  store.st.dl.bscstorage.net
-120.220.20.122                 store.st.dl.bscstorage.net
-120.220.20.123                 store.st.dl.bscstorage.net
+23.12.146.158                  cdn.akamai.steamstatic.com
+23.12.146.141                  cdn.akamai.steamstatic.com
+23.218.218.185                 cdn.store.steampowered.com
+23.218.218.135                 cdn.store.steampowered.com
 120.222.158.24                 store.st.dl.bscstorage.net
+120.220.20.123                 store.st.dl.bscstorage.net
+120.220.20.122                 store.st.dl.bscstorage.net
+120.192.85.36                  store.st.dl.bscstorage.net
 120.192.85.35                  store.st.dl.bscstorage.net
 120.222.158.25                 store.st.dl.bscstorage.net
-23.66.227.126                  storefront.steampowered.com
+23.221.5.74                    storefront.steampowered.com
 # No resolution for store.st.dl.pinyuncloud.com store.st.dl.pinyuncloud.com
 # No resolution for media.st.dl.pinyuncloud.com media.st.dl.pinyuncloud.com
-23.215.0.231                   store.akamai.steamstatic.com
-23.215.0.238                   store.akamai.steamstatic.com
-23.53.11.228                   steamcommunity-a.akamaihd.net
-23.53.11.241                   steamcommunity-a.akamaihd.net
-23.215.0.230                   community.akamai.steamstatic.com
-23.215.0.233                   community.akamai.steamstatic.com
+23.12.146.157                  store.akamai.steamstatic.com
+23.12.146.164                  store.akamai.steamstatic.com
+23.12.146.143                  steamcommunity-a.akamaihd.net
+23.12.146.130                  steamcommunity-a.akamaihd.net
+23.45.181.202                  community.akamai.steamstatic.com
+23.45.180.216                  community.akamai.steamstatic.com
+23.45.180.208                  community.akamai.steamstatic.com
 
-# Last update at 2024-06-07 01:12:44 (Beijing Time)
+# Last update at 2024-06-07 02:16:05 (Beijing Time)
 # Star me GitHub url: https://github.com/JohyC/Hosts
 # Hosts End 
 
