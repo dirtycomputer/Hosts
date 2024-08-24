@@ -9,17 +9,17 @@
 23.215.0.136                   cdn.steampowered.com
 23.215.0.137                   cdn.steampowered.com
 23.214.234.105                 help.steampowered.com
-198.185.159.144                steampoweredmedia.com
-198.49.23.145                  steampoweredmedia.com
-198.49.23.144                  steampoweredmedia.com
 198.185.159.145                steampoweredmedia.com
-23.53.11.212                   cdn.steamcommunity.com
+198.49.23.145                  steampoweredmedia.com
+198.185.159.144                steampoweredmedia.com
+198.49.23.144                  steampoweredmedia.com
 23.53.11.206                   cdn.steamcommunity.com
-23.53.11.210                   media.steampowered.com
+23.53.11.212                   cdn.steamcommunity.com
 23.53.11.215                   media.steampowered.com
+23.53.11.210                   media.steampowered.com
 23.202.153.171                 store.steampowered.com
-23.53.11.215                   cdn.akamai.steamstatic.com
 23.53.11.210                   cdn.akamai.steamstatic.com
+23.53.11.215                   cdn.akamai.steamstatic.com
 23.53.11.209                   cdn.store.steampowered.com
 23.53.11.214                   cdn.store.steampowered.com
 39.173.186.93                  store.st.dl.bscstorage.net
@@ -30,12 +30,12 @@
 38.238.125.26                  media.st.dl.pinyuncloud.com
 23.53.11.214                   store.akamai.steamstatic.com
 23.53.11.209                   store.akamai.steamstatic.com
-23.53.11.206                   steamcommunity-a.akamaihd.net
 23.53.11.212                   steamcommunity-a.akamaihd.net
-23.53.11.212                   community.akamai.steamstatic.com
+23.53.11.206                   steamcommunity-a.akamaihd.net
 23.53.11.206                   community.akamai.steamstatic.com
+23.53.11.212                   community.akamai.steamstatic.com
 
-# Last update at 2024-08-25 00:14:56 (Beijing Time)
+# Last update at 2024-08-25 01:12:36 (Beijing Time)
 # Star me GitHub url: https://github.com/JohyC/Hosts
 # Hosts End 
 
