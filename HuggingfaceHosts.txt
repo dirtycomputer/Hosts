@@ -1,30 +1,30 @@
 # Hosts Start 
-18.154.227.69                  huggingface.co
-18.154.227.87                  huggingface.co
-18.154.227.67                  huggingface.co
-18.154.227.7                   huggingface.co
-2600:9000:2501:8600:17:b174:6d00:93a1 huggingface.co
-2600:9000:2501:9a00:17:b174:6d00:93a1 huggingface.co
-2600:9000:2501:400:17:b174:6d00:93a1 huggingface.co
-2600:9000:2501:9600:17:b174:6d00:93a1 huggingface.co
-2600:9000:2501:e400:17:b174:6d00:93a1 huggingface.co
-2600:9000:2501:b600:17:b174:6d00:93a1 huggingface.co
-2600:9000:2501:be00:17:b174:6d00:93a1 huggingface.co
-2600:9000:2501:3200:17:b174:6d00:93a1 huggingface.co
-108.138.64.111                 cdn-lfs.huggingface.co
-108.138.64.49                  cdn-lfs.huggingface.co
-108.138.64.36                  cdn-lfs.huggingface.co
-108.138.64.121                 cdn-lfs.huggingface.co
-2600:9000:2508:4600:11:f807:5180:93a1 cdn-lfs.huggingface.co
-2600:9000:2508:b400:11:f807:5180:93a1 cdn-lfs.huggingface.co
-2600:9000:2508:9000:11:f807:5180:93a1 cdn-lfs.huggingface.co
-2600:9000:2508:3600:11:f807:5180:93a1 cdn-lfs.huggingface.co
-2600:9000:2508:b200:11:f807:5180:93a1 cdn-lfs.huggingface.co
-2600:9000:2508:4800:11:f807:5180:93a1 cdn-lfs.huggingface.co
-2600:9000:2508:2600:11:f807:5180:93a1 cdn-lfs.huggingface.co
-2600:9000:2508:ca00:11:f807:5180:93a1 cdn-lfs.huggingface.co
+18.238.136.71                  huggingface.co
+18.238.136.112                 huggingface.co
+18.238.136.32                  huggingface.co
+18.238.136.129                 huggingface.co
+2600:9000:24bf:3a00:17:b174:6d00:93a1 huggingface.co
+2600:9000:24bf:5a00:17:b174:6d00:93a1 huggingface.co
+2600:9000:24bf:d600:17:b174:6d00:93a1 huggingface.co
+2600:9000:24bf:fc00:17:b174:6d00:93a1 huggingface.co
+2600:9000:24bf:1200:17:b174:6d00:93a1 huggingface.co
+2600:9000:24bf:e00:17:b174:6d00:93a1 huggingface.co
+2600:9000:24bf:d000:17:b174:6d00:93a1 huggingface.co
+2600:9000:24bf:1000:17:b174:6d00:93a1 huggingface.co
+18.154.185.27                  cdn-lfs.huggingface.co
+18.154.185.94                  cdn-lfs.huggingface.co
+18.154.185.26                  cdn-lfs.huggingface.co
+18.154.185.64                  cdn-lfs.huggingface.co
+2600:9000:24ce:9400:11:f807:5180:93a1 cdn-lfs.huggingface.co
+2600:9000:24ce:9800:11:f807:5180:93a1 cdn-lfs.huggingface.co
+2600:9000:24ce:c400:11:f807:5180:93a1 cdn-lfs.huggingface.co
+2600:9000:24ce:a000:11:f807:5180:93a1 cdn-lfs.huggingface.co
+2600:9000:24ce:600:11:f807:5180:93a1 cdn-lfs.huggingface.co
+2600:9000:24ce:ee00:11:f807:5180:93a1 cdn-lfs.huggingface.co
+2600:9000:24ce:9200:11:f807:5180:93a1 cdn-lfs.huggingface.co
+2600:9000:24ce:9a00:11:f807:5180:93a1 cdn-lfs.huggingface.co
 
-# Last update at 2024-09-03 16:17:48 (Beijing Time)
+# Last update at 2024-09-03 17:14:47 (Beijing Time)
 # Star me GitHub url: https://github.com/JohyC/Hosts
 # Hosts End 
 
