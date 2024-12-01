@@ -1,19 +1,19 @@
 # Hosts Start 
+3.167.112.25                   huggingface.co
+3.167.112.45                   huggingface.co
 3.167.112.38                   huggingface.co
 3.167.112.96                   huggingface.co
-3.167.112.45                   huggingface.co
-3.167.112.25                   huggingface.co
-2600:9000:27d1:1200:17:b174:6d00:93a1 huggingface.co
-2600:9000:27d1:4000:17:b174:6d00:93a1 huggingface.co
-2600:9000:27d1:9800:17:b174:6d00:93a1 huggingface.co
-2600:9000:27d1:f800:17:b174:6d00:93a1 huggingface.co
-2600:9000:27d1:ae00:17:b174:6d00:93a1 huggingface.co
-2600:9000:27d1:9200:17:b174:6d00:93a1 huggingface.co
-2600:9000:27d1:5200:17:b174:6d00:93a1 huggingface.co
-2600:9000:27d1:8e00:17:b174:6d00:93a1 huggingface.co
+2600:9000:234c:cc00:17:b174:6d00:93a1 huggingface.co
+2600:9000:234c:4000:17:b174:6d00:93a1 huggingface.co
+2600:9000:234c:400:17:b174:6d00:93a1 huggingface.co
+2600:9000:234c:6200:17:b174:6d00:93a1 huggingface.co
+2600:9000:234c:9800:17:b174:6d00:93a1 huggingface.co
+2600:9000:234c:b800:17:b174:6d00:93a1 huggingface.co
+2600:9000:234c:4200:17:b174:6d00:93a1 huggingface.co
+2600:9000:234c:ec00:17:b174:6d00:93a1 huggingface.co
 # No resolution for cdn-lfs.huggingface.co cdn-lfs.huggingface.co
 
-# Last update at 2024-12-01 15:03:50 (Beijing Time)
+# Last update at 2024-12-01 16:04:51 (Beijing Time)
 # Star me GitHub url: https://github.com/JohyC/Hosts
 # Hosts End 
 
